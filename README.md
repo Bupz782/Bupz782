@@ -13,8 +13,8 @@ I'm a student software engineer on a long-term journey to master **systems progr
   Become a systems-level developer fluent in **C, Rust, Go, Zig**, and advanced mathematics.
 
 - 🔧 Currently focused on:
-  - Systems programming (C, memory, debugging, compilers)
-  - Mathematical foundations (via AoPS + problem solving)
+  - Systems programming
+  - Mathematical foundations
 
 ---
 
