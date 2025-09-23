@@ -9,9 +9,6 @@ I'm a student software engineer on a long-term journey to master **systems progr
 > **"Learn from first principles. Build from scratch. Iterate endlessly."**
 → *iterativeHuman*
 
-- 🎯 **Vision**:
-  Become a systems-level developer fluent in **C, Rust, Go, Zig**, and advanced mathematics.
-
 - 🔧 Currently focused on:
   - Systems programming
   - Mathematical foundations
