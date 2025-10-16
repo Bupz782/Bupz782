@@ -4,15 +4,11 @@ I'm a student software engineer on a long-term journey to master **systems progr
 
 ---
 
-## 🚀 My Mission
-
-> **"Learn from first principles. Build from scratch. Iterate endlessly."**
-→ *iterativeHuman*
-
 - 🔧 Currently focused on:
   - Systems programming
   - Mathematical foundations
-
+  - Web3
+  - Defi
 ---
 
 ## 🛠️ Tools & Languages
@@ -32,6 +28,8 @@ I'm a student software engineer on a long-term journey to master **systems progr
 - Digital identity & privacy
 - Open source tooling
 - Minimalism in design & code
+- Web3
+- Defi
 
 ---
 
@@ -40,6 +38,7 @@ I'm a student software engineer on a long-term journey to master **systems progr
 I'm documenting the entire journey at **[iterativeHuman.dev](https://iterativehuman.dev)** — launching soon.
 You’ll find:
 - 📘 Study notes (Math + CS)
+- 💱 Crypto notes (Defi + Web3)
 - 🧩 Projects & experiments
 - 📊 Roadmaps, reflections, and progress logs
 
@@ -52,8 +51,8 @@ Feel free to open an issue.
 
 ---
 
-> ⚙️ *I’m not here to build yet another CRUD app.
-> I’m here to understand the machine.*
+> ⚙️ *I’m not here to build endlessly.
+> I’m here to understand the myself.*
 
 —
 **Bupz / iterativeHuman**
